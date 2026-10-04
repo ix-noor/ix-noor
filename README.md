@@ -5,8 +5,11 @@
 - 🌱 I’m currently learning new technologies to build better engineering projects.
 - ⚡ Fun fact: I love building mini-projects and experimenting with AI tools!
 
+### 🌐 Connect With Me
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/noor-preet-615324305) 
+[![Gmail](https://shields.io)](mailto:preetnoor036@gmail.com)
+
 ### 🛠️ Tech Stack
-<!-- You can add your favorite languages/tools here later -->
 - **Languages:** Python, JavaScript, HTML/CSS
 - **Tools & Frameworks:** Git, GitHub, VS Code
 
